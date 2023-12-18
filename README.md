@@ -1,5 +1,5 @@
 # Simon-Game
-Arduino project that maps the values of a sensor to a certain range
+Arduino project that simulates Simon Game
 
 you can have a look on the circuit that this code is written for from this link:
 https://www.tinkercad.com/things/ckM18msKmWY-simon-game
